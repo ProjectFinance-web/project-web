@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: "."
+
+website:
+  title: "Projeto"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
