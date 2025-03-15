@@ -1,5 +1,59 @@
 ---
-title: "Sobre a equipe!"
+title: "Apresentação da Equipe"
+author: "Nome da Empresa"
+date: today
+format: html
 ---
 
-About this site
+# Bem-vindos!
+
+- Apresentação da equipe
+- Nossa missão e valores
+- Objetivos do time
+
+---
+
+# Quem Somos
+
+| ![](images/higor.jpg){width=100px} | **Higor Volpi**<br>Desenvolvedor Junior<br>[![LinkedIn](images/logo.png){width=20px}](https://www.linkedin.com/in/higor-palote-volpi/) |
+|:-----------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
+| ![](images/ana.jpg){width=100px}   | **Ana Júlia**<br>Estagiária de BI<br>[![LinkedIn](images/logo.png){width=20px}](https://www.linkedin.com/in/anakucharski/)             |
+| ![](images/jhonatan.jpg){width=100px}| **Jhonatan Atanazio**<br>Gerente de Planejamento Estratégico<br>[![LinkedIn](images/logo.png){width=20px}](https://www.linkedin.com/in/atanaziojhonatan/) |
+| ![](images/eduardo.jpg){width=100px}                | **Eduardo Oliveira**<br>Data Analytics<br>[![LinkedIn](images/logo.png){width=20px}](https://www.linkedin.com/in/eduardo-oliveira-pereira/) |
+
+
+---
+
+# Nossa Missão
+
+> "Texto inspirador sobre a missão da equipe e o impacto que queremos gerar."
+
+---
+
+# Valores da Equipe
+
+- **Colaboração** 🤝  
+- **Inovação** 🚀  
+- **Comprometimento** ✅  
+- **Transparência** 🔍  
+
+---
+
+# Projetos em Andamento  
+
+1. **Projeto 1** - Breve descrição  
+2. **Projeto 2** - Breve descrição  
+3. **Projeto 3** - Breve descrição  
+
+---
+
+# Contato  
+
+📧 **Email:** projectfinance04@gmail.com  
+🌐 **GitHub:** [Github.com/ProjectFinance-web](https://github.com/ProjectFinance-web)    
+
+---
+
+# Obrigado! 🎉  
+
+Dúvidas? Vamos conversar!  
