@@ -41,7 +41,10 @@ format: html
 
 # Projetos em Andamento  
 
-1. **Projeto 1** - Breve descrição  
+1. ## Projeto 1 - 📊 Dashboard Financeiro Interativo
+- **Descrição:** Dashboard interativo para visualização de dados financeiros para o projeto.
+- 📎 [Código no GitHub](https://github.com/ProjectFinance-web/project-web/tree/main/projects/Dashboard)
+- 📎 [Ver no StreamLit](https://bigdataproj.streamlit.app/)
 2. **Projeto 2** - Breve descrição  
 3. **Projeto 3** - Breve descrição  
 
