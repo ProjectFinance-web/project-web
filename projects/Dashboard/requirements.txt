@@ -1,0 +1,4 @@
+streamlit
+yahooquery
+pandas
+plotly
