@@ -5,11 +5,11 @@ date: today
 format: html
 ---
 
-# Introdução
+# 📌Introdução
 
  O mercado de jogos eletrônicos é uma indústria bilionária que cresce constantemente, impulsionada por avanços tecnológicos, mudanças no comportamento dos consumidores e estratégias empresariais diferenciadas. Este projeto tem como objetivo analisar e comparar empresas do setor pelo viés financeiro, avaliando sua performance, receita, lucro e outros indicadores econômicos relevantes.
 
-# Empresas Analisadas
+# 🎯Empresas Analisadas
 
 Para esta análise, foram selecionadas algumas das maiores empresas do setor de games:
 
@@ -23,14 +23,14 @@ Para esta análise, foram selecionadas algumas das maiores empresas do setor de 
 
 - ![](images/xbox_microsoft.png){width=50px} **Xbox (Microsoft Gaming)** – Responsável pela linha de consoles Xbox e por títulos como Halo e Forza Horizon.
 
-# Objetivo do Projeto
+# 🎯Objetivo do Projeto
 
 - A definir
 
-# Metodologia
+# 📊Metodologia
 
  Os dados serão coletados a partir de relatórios financeiros oficiais, balanços patrimoniais e outras fontes confiáveis. A análise será conduzida com métodos estatísticos e ferramentas de programação e visualizações para facilitar a interpretação dos resultados.
 
-# Conclusão Esperada
+# ✅Conclusão Esperada
 
  Com este estudo, espera-se obter insights valiosos sobre o panorama financeiro das principais empresas de jogos, identificando tendências e desafios enfrentados por cada uma delas no mercado global.
