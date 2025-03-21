@@ -2,12 +2,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.40">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Ana Julia, Eduardo, Higor, Jhonatan">
+<meta name="dcterms.date" content="2025-03-21">
 
-<title>API Yahoo!Finance – Projeto</title>
+<title>Análise Financeira de Empresas de Jogos – Projeto</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -35,7 +37,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-ddd961a2510921635943dfbbd19534c4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
@@ -107,22 +109,44 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#introdução" id="toc-introdução" class="nav-link active" data-scroll-target="#introdução">Introdução</a></li>
+  <li><a href="#empresas-analisadas" id="toc-empresas-analisadas" class="nav-link" data-scroll-target="#empresas-analisadas">Empresas Analisadas</a></li>
+  <li><a href="#objetivo-do-projeto" id="toc-objetivo-do-projeto" class="nav-link" data-scroll-target="#objetivo-do-projeto">Objetivo do Projeto</a></li>
+  <li><a href="#metodologia" id="toc-metodologia" class="nav-link" data-scroll-target="#metodologia">Metodologia</a></li>
+  <li><a href="#conclusão-esperada" id="toc-conclusão-esperada" class="nav-link" data-scroll-target="#conclusão-esperada">Conclusão Esperada</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">API Yahoo!Finance</h1>
+<h1 class="title">Análise Financeira de Empresas de Jogos</h1>
 </div>
 
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Ana Julia, Eduardo, Higor, Jhonatan </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">March 21, 2025</p>
+    </div>
+  </div>
   
     
   </div>
@@ -132,10 +156,37 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>This is a Quarto website.</p>
-<p>To learn more about Quarto websites visit <a href="https://quarto.org/docs/websites" class="uri">https://quarto.org/docs/websites</a>.</p>
+<section id="introdução" class="level1">
+<h1>Introdução</h1>
+<p>O mercado de jogos eletrônicos é uma indústria bilionária que cresce constantemente, impulsionada por avanços tecnológicos, mudanças no comportamento dos consumidores e estratégias empresariais diferenciadas. Este projeto tem como objetivo analisar e comparar empresas do setor pelo viés financeiro, avaliando sua performance, receita, lucro e outros indicadores econômicos relevantes.</p>
+</section>
+<section id="empresas-analisadas" class="level1">
+<h1>Empresas Analisadas</h1>
+<p>Para esta análise, foram selecionadas algumas das maiores empresas do setor de games:</p>
+<ul>
+<li><p><img src="images/riot_games.png" class="img-fluid" width="50"> <strong>Riot Games</strong> – Desenvolvedora de títulos como League of Legends e Valorant.</p></li>
+<li><p><img src="images/valve.png" class="img-fluid" width="50"> <strong>Valve</strong> – Criadora da plataforma Steam e de jogos como Counter-Strike e Dota 2.</p></li>
+<li><p><img src="images/blizzard.png" class="img-fluid" width="50"> <strong>Blizzard</strong> – Responsável por franquias icônicas como World of Warcraft e Diablo.</p></li>
+<li><p><img src="images/sony.png" class="img-fluid" width="50"> <strong>PlayStation (Sony)</strong> – Detentora da marca PlayStation e de diversos estúdios renomados.</p></li>
+<li><p><img src="images/xbox_microsoft.png" class="img-fluid" width="50"> <strong>Xbox (Microsoft Gaming)</strong> – Responsável pela linha de consoles Xbox e por títulos como Halo e Forza Horizon.</p></li>
+</ul>
+</section>
+<section id="objetivo-do-projeto" class="level1">
+<h1>Objetivo do Projeto</h1>
+<ul>
+<li>A definir</li>
+</ul>
+</section>
+<section id="metodologia" class="level1">
+<h1>Metodologia</h1>
+<p>Os dados serão coletados a partir de relatórios financeiros oficiais, balanços patrimoniais e outras fontes confiáveis. A análise será conduzida com métodos estatísticos e ferramentas de programação e visualizações para facilitar a interpretação dos resultados.</p>
+</section>
+<section id="conclusão-esperada" class="level1">
+<h1>Conclusão Esperada</h1>
+<p>Com este estudo, espera-se obter insights valiosos sobre o panorama financeiro das principais empresas de jogos, identificando tendências e desafios enfrentados por cada uma delas no mercado global.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

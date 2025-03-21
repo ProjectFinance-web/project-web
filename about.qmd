@@ -1,6 +1,6 @@
 ---
 title: "Apresentação da Equipe"
-author: "Nome da Empresa"
+author: "Ana Julia, Eduardo, Higor, Jhonatan"
 date: today
 format: html
 ---
@@ -15,18 +15,18 @@ format: html
 
 # Quem Somos
 
-| ![](images/higor.jpg){width=100px} | **Higor Volpi**<br>Desenvolvedor Junior<br>[![LinkedIn](images/logo.png){width=20px}](https://www.linkedin.com/in/higor-palote-volpi/) |
+| ![](images/higor.jpg){width=100px} | **Higor Volpi** <br>Desenvolvedor Junior<br>[![LinkedIn](images/logo.png){width=20px}](https://www.linkedin.com/in/higor-palote-volpi/) |
 |:-----------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![](images/ana.jpg){width=100px}   | **Ana Júlia**<br>Estagiária de BI<br>[![LinkedIn](images/logo.png){width=20px}](https://www.linkedin.com/in/anakucharski/)             |
-| ![](images/jhonatan.jpg){width=100px}| **Jhonatan Atanazio**<br>Gerente de Planejamento Estratégico<br>[![LinkedIn](images/logo.png){width=20px}](https://www.linkedin.com/in/atanaziojhonatan/) |
-| ![](images/eduardo.jpg){width=100px}                | **Eduardo Oliveira**<br>Data Analytics<br>[![LinkedIn](images/logo.png){width=20px}](https://www.linkedin.com/in/eduardo-oliveira-pereira/) |
+| ![](images/ana.jpg){width=100px}   | **Ana Júlia** <br>Estagiária de BI<br>[![LinkedIn](images/logo.png){width=20px}](https://www.linkedin.com/in/anakucharski/)             |
+| ![](images/jhonatan.jpg){width=100px}| **Jhonatan Atanazio** <br>Gerente de Planejamento Estratégico<br>[![LinkedIn](images/logo.png){width=20px}](https://www.linkedin.com/in/atanaziojhonatan/) |
+| ![](images/eduardo.jpg){width=100px}                | **Eduardo Oliveira** <br>Data Analytics<br>[![LinkedIn](images/logo.png){width=20px}](https://www.linkedin.com/in/eduardo-oliveira-pereira/) |
 
 
 ---
 
 # Nossa Missão
 
-> "Texto inspirador sobre a missão da equipe e o impacto que queremos gerar."
+> Desenvolver trabalho universitário para matéria de projeto "Big Data for Finance Project"
 
 ---
 
