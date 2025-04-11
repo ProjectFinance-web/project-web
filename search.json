@@ -4,13 +4,27 @@
     "href": "index.html",
     "title": "Análise Financeira de Empresas de Jogos",
     "section": "",
-    "text": "📌Introdução\nO mercado de jogos eletrônicos é uma indústria bilionária que cresce constantemente, impulsionada por avanços tecnológicos, mudanças no comportamento dos consumidores e estratégias empresariais diferenciadas. Este projeto tem como objetivo analisar e comparar empresas do setor pelo viés financeiro, avaliando sua performance, receita, lucro e outros indicadores econômicos relevantes.\n\n\n🎯Empresas Analisadas\nPara esta análise, foram selecionadas algumas das maiores empresas do setor de games:\n\n Tencent – Investidora e desenvolvedora no setor de games, com participação em títulos como League of Legends e Valorant.\n Take-Two Interactive – Responsável por franquias como Grand Theft Auto (GTA), Red Dead Redemption e NBA 2K.\n Roblox Corporation – Desenvolvedora da plataforma Roblox, focada em experiências criadas por usuários.\n Electronic Arts (EA) – Conhecida por franquias como FIFA, The Sims e Battlefield.\n Bandai Namco – Desenvolvedora e distribuidora de jogos como Tekken, Pac-Man e Elden Ring.\n\n\n\n🎯Objetivo do Projeto\n\nA definir\n\n\n\n📊Metodologia\nOs dados serão coletados a partir de relatórios financeiros oficiais, balanços patrimoniais e outras fontes confiáveis. A análise será conduzida com métodos estatísticos e ferramentas de programação e visualizações para facilitar a interpretação dos resultados.\n\n\n🤝Quem Somos"
+    "text": "📌Introdução\nO mercado de jogos eletrônicos é uma indústria bilionária que cresce constantemente, impulsionada por avanços tecnológicos, mudanças no comportamento dos consumidores e estratégias empresariais diferenciadas. Este projeto tem como objetivo analisar e comparar empresas do setor pelo viés financeiro, avaliando sua performance, receita, lucro e outros indicadores econômicos relevantes.\n\n\n🎯Empresas Analisadas\nPara esta análise, foram selecionadas algumas das maiores empresas do setor de games:\n\n Tencent – Investidora e desenvolvedora no setor de games, com participação em títulos como League of Legends e Valorant.\n Take-Two Interactive – Responsável por franquias como Grand Theft Auto (GTA), Red Dead Redemption e NBA 2K.\n Roblox Corporation – Desenvolvedora da plataforma Roblox, focada em experiências criadas por usuários.\n Electronic Arts (EA) – Conhecida por franquias como FIFA, The Sims e Battlefield.\n Bandai Namco – Desenvolvedora e distribuidora de jogos como Tekken, Pac-Man e Elden Ring.\n\n\n\n🤝Quem Somos!\n\n\n\n\nAna Júlia Estagiária de BI \n\n\n\n\n\nEduardo Oliveira Data Analytics\n\n\n\nHigor Volpi Desenvolvedor Junior \n\n\n\nJhonatan Atanazio Gerente de Planejamento Estratégico\n\n\n\n\n\nNossa Missão\n\nDesenvolver trabalho universitário para matéria de projeto “Big Data for Finance Project”\n\n\n\n\nContato\n📧 Email: projectfinance04@gmail.com\n🌐 GitHub: Github.com/ProjectFinance-web"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Apresentação da Equipe",
+    "title": "Projetos",
     "section": "",
-    "text": "Bem-vindos!\n\nApresentação da equipe\nNossa missão e valores\nObjetivos do time\n\n\n\n\nQuem Somos\n\n\n\n\nHigor Volpi Desenvolvedor Junior \n\n\n\n\n\nAna Júlia Estagiária de BI \n\n\n\nJhonatan Atanazio Gerente de Planejamento Estratégico\n\n\n\nEduardo Oliveira Data Analytics\n\n\n\n\n\n\nNossa Missão\n\nDesenvolver trabalho universitário para matéria de projeto “Big Data for Finance Project”\n\n\n\n\nValores da Equipe\n\nColaboração 🤝\n\nInovação 🚀\n\nComprometimento ✅\n\nTransparência 🔍\n\n\n\n\nProjetos em Andamento\n\nProjeto 1 - 📊 Dashboard Financeiro Interativo\n\n\nDescrição: Dashboard interativo para visualização de dados financeiros para o projeto.\n📎 Código no GitHub\n📎 Ver no StreamLit\n\n\nProjeto 2 - Breve descrição\n\nProjeto 3 - Breve descrição\n\n\n\n\nContato\n📧 Email: projectfinance04@gmail.com\n🌐 GitHub: Github.com/ProjectFinance-web\n\n\n\nObrigado! 🎉\nDúvidas? Vamos conversar!"
+    "text": "Descrição: Dashboard interativo para visualização de dados financeiros para o projeto.\n📎 Ver no StreamLit\n📎 Código no GitHub\n\n\n\n\nO principal objetivo deste projeto é fornecer uma ferramenta prática e acessível para a manipulação, especialmente útil para profissionais que lidam com grandes volumes de dados. A aplicação visa simplificar processos de ETL (Extração, Transformação e Carga) e análise exploratória de dados, sem a necessidade de conhecimentos avançados em programação ou ferramentas complexas."
+  },
+  {
+    "objectID": "about.html#projeto-1---dashboard-financeiro-interativo",
+    "href": "about.html#projeto-1---dashboard-financeiro-interativo",
+    "title": "Projetos",
+    "section": "",
+    "text": "Descrição: Dashboard interativo para visualização de dados financeiros para o projeto.\n📎 Ver no StreamLit\n📎 Código no GitHub\n\n\n\n\nO principal objetivo deste projeto é fornecer uma ferramenta prática e acessível para a manipulação, especialmente útil para profissionais que lidam com grandes volumes de dados. A aplicação visa simplificar processos de ETL (Extração, Transformação e Carga) e análise exploratória de dados, sem a necessidade de conhecimentos avançados em programação ou ferramentas complexas."
+  },
+  {
+    "objectID": "about.html#projeto-2---em-desenvolvimento",
+    "href": "about.html#projeto-2---em-desenvolvimento",
+    "title": "Projetos",
+    "section": "Projeto 2 - Em desenvolvimento",
+    "text": "Projeto 2 - Em desenvolvimento\n\n…"
   }
 ]

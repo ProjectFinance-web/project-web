@@ -1,6 +1,5 @@
 ---
 title: "Análise Financeira de Empresas de Jogos"
-author: "Ana Julia, Eduardo, Higor, Jhonatan"
 date: today
 format: html
 ---
@@ -13,22 +12,32 @@ format: html
 
 Para esta análise, foram selecionadas algumas das maiores empresas do setor de games:
 
-- ![](images/tcehy.png.png){width=50px} *Tencent* – Investidora e desenvolvedora no setor de games, com participação em títulos como League of Legends e Valorant.
+- ![](images/tcehy.png){width=50px} **Tencent** – Investidora e desenvolvedora no setor de games, com participação em títulos como League of Legends e Valorant.
 
-- ![](images/take-two.png.png){width=50px} *Take-Two Interactive* – Responsável por franquias como Grand Theft Auto (GTA), Red Dead Redemption e NBA 2K.
+- ![](images/take-two.png){width=50px} **Take-Two Interactive** – Responsável por franquias como Grand Theft Auto (GTA), Red Dead Redemption e NBA 2K.
 
-- ![](images/roblox.png.png){width=50px} *Roblox Corporation* – Desenvolvedora da plataforma Roblox, focada em experiências criadas por usuários.
+- ![](images/roblox.png){width=50px} **Roblox Corporation** – Desenvolvedora da plataforma Roblox, focada em experiências criadas por usuários.
 
-- ![](images/ea.png.png){width=50px} *Electronic Arts (EA)* – Conhecida por franquias como FIFA, The Sims e Battlefield.
+- ![](images/ea.png){width=50px} **Electronic Arts (EA)** – Conhecida por franquias como FIFA, The Sims e Battlefield.
 
-- ![](images/bandai.png.png){width=50px} *Bandai Namco* – Desenvolvedora e distribuidora de jogos como Tekken, Pac-Man e Elden Ring.
+- ![](images/bandai.png){width=50px} **Bandai Namco** – Desenvolvedora e distribuidora de jogos como Tekken, Pac-Man e Elden Ring.
 
-# 🎯Objetivo do Projeto
+# 🤝Quem Somos!
 
-- A definir
+| ![](images/ana.jpg){width=100px}   | **Ana Júlia** <br>Estagiária de BI<br>[![LinkedIn](images/logo.png){width=20px}](https://www.linkedin.com/in/anakucharski/) [![Portfolio](images/github.png){width=20px}](https://anajuliakucharski.github.io/portfolio/)             |
+|:-----------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
+| ![](images/eduardo.jpg){width=100px}                | **Eduardo Oliveira** <br>Data Analytics<br>[![LinkedIn](images/logo.png){width=20px}](https://www.linkedin.com/in/eduardo-oliveira-pereira/)[![Portfolio](images/github.png){width=20px}](https://eduoliveira1504.github.io/Portfolio/)   |
+| ![](images/higor.jpg){width=100px} | **Higor Volpi** <br>Desenvolvedor Junior<br>[![LinkedIn](images/logo.png){width=20px}](https://www.linkedin.com/in/higor-palote-volpi/) [![Portfolio](images/github.png){width=20px}](https://github.com/ProjectFinance-web/project-web)   |
+| ![](images/jhonatan.jpg){width=100px}| **Jhonatan Atanazio** <br>Gerente de Planejamento Estratégico<br>[![LinkedIn](images/logo.png){width=20px}](https://www.linkedin.com/in/atanaziojhonatan/)[![Portfolio](images/github.png){width=20px}](https://atanazioj.github.io/portfolio/) |
 
-# 📊Metodologia
 
- Os dados serão coletados a partir de relatórios financeiros oficiais, balanços patrimoniais e outras fontes confiáveis. A análise será conduzida com métodos estatísticos e ferramentas de programação e visualizações para facilitar a interpretação dos resultados.
+# Nossa Missão
 
-# 🤝Quem Somos
+> Desenvolver trabalho universitário para matéria de projeto "Big Data for Finance Project"
+
+---
+
+# Contato  
+
+📧 **Email:** projectfinance04@gmail.com  
+🌐 **GitHub:** [Github.com/ProjectFinance-web](https://github.com/ProjectFinance-web)

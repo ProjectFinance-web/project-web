@@ -1,62 +1,27 @@
 ---
-title: "Apresentação da Equipe"
+title: "Projetos"
 author: "Ana Julia, Eduardo, Higor, Jhonatan"
-date: today
 format: html
 ---
 
-# Bem-vindos!
+# 📌 Em Andamento  
 
-- Apresentação da equipe
-- Nossa missão e valores
-- Objetivos do time
-
----
-
-# Quem Somos
-
-| ![](images/higor.jpg){width=100px} | **Higor Volpi** <br>Desenvolvedor Junior<br>[![LinkedIn](images/logo.png){width=20px}](https://www.linkedin.com/in/higor-palote-volpi/) [![Portfolio](images/github.png){width=20px}](https://github.com/HigorVolpi/portfolio/)   |
-|:-----------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![](images/ana.jpg){width=100px}   | **Ana Júlia** <br>Estagiária de BI<br>[![LinkedIn](images/logo.png){width=20px}](https://www.linkedin.com/in/anakucharski/) [![Portfolio](images/github.png){width=20px}](https://anajuliakucharski.github.io/portfolio/)             |
-| ![](images/jhonatan.jpg){width=100px}| **Jhonatan Atanazio** <br>Gerente de Planejamento Estratégico<br>[![LinkedIn](images/logo.png){width=20px}](https://www.linkedin.com/in/atanaziojhonatan/)[![Portfolio](images/github.png){width=20px}](https://atanazioj.github.io/portfolio/) |
-| ![](images/eduardo.jpg){width=100px}                | **Eduardo Oliveira** <br>Data Analytics<br>[![LinkedIn](images/logo.png){width=20px}](https://www.linkedin.com/in/eduardo-oliveira-pereira/)[![Portfolio](images/github.png){width=20px}](https://eduoliveira1504.github.io/Portfolio/)   |
-
-
----
-
-# Nossa Missão
-
-> Desenvolver trabalho universitário para matéria de projeto "Big Data for Finance Project"
-
----
-
-# Valores da Equipe
-
-- **Colaboração** 🤝  
-- **Inovação** 🚀  
-- **Comprometimento** ✅  
-- **Transparência** 🔍  
-
----
-
-# Projetos em Andamento  
-
-1. ## Projeto 1 - 📊 Dashboard Financeiro Interativo
+## Projeto 1 - Dashboard Financeiro Interativo
 - **Descrição:** Dashboard interativo para visualização de dados financeiros para o projeto.
-- 📎 [Código no GitHub](https://github.com/ProjectFinance-web/project-web/tree/main/projects/Dashboard)
 - 📎 [Ver no StreamLit](https://bigdataproj.streamlit.app/)
-2. **Projeto 2** - Breve descrição  
-3. **Projeto 3** - Breve descrição  
+- 📎 [Código no GitHub](https://github.com/ProjectFinance-web/project-web/tree/main/projects/Dashboard)
+
+### Objetivo
+
+- O principal objetivo deste projeto é fornecer uma ferramenta prática e acessível para a manipulação, especialmente útil para profissionais que lidam com grandes volumes de dados. A aplicação visa simplificar processos de ETL (Extração, Transformação e Carga) e análise exploratória de dados, sem a necessidade de conhecimentos avançados em programação ou ferramentas complexas. 
 
 ---
 
-# Contato  
+# 🌐 Futuros
 
-📧 **Email:** projectfinance04@gmail.com  
-🌐 **GitHub:** [Github.com/ProjectFinance-web](https://github.com/ProjectFinance-web)    
+## Projeto 2 - Em desenvolvimento
+- ...
 
----
-
-# Obrigado! 🎉  
+# Obrigado! 🎉 
 
 Dúvidas? Vamos conversar!  
