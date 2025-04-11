@@ -13,15 +13,15 @@ format: html
 
 Para esta análise, foram selecionadas algumas das maiores empresas do setor de games:
 
-- ![](images/riot_games.png){width=50px} **Riot Games** – Desenvolvedora de títulos como League of Legends e Valorant.
+- ![](images/tcehy.png.png){width=50px} *Tencent* – Investidora e desenvolvedora no setor de games, com participação em títulos como League of Legends e Valorant.
 
-- ![](images/valve.png){width=50px} **Valve** – Criadora da plataforma Steam e de jogos como Counter-Strike e Dota 2.
+- ![](images/take-two.png.png){width=50px} *Take-Two Interactive* – Responsável por franquias como Grand Theft Auto (GTA), Red Dead Redemption e NBA 2K.
 
-- ![](images/blizzard.png){width=50px} **Blizzard** – Responsável por franquias icônicas como World of Warcraft e Diablo.
+- ![](images/roblox.png.png){width=50px} *Roblox Corporation* – Desenvolvedora da plataforma Roblox, focada em experiências criadas por usuários.
 
-- ![](images/sony.png){width=50px} **PlayStation (Sony)** – Detentora da marca PlayStation e de diversos estúdios renomados.
+- ![](images/ea.png.png){width=50px} *Electronic Arts (EA)* – Conhecida por franquias como FIFA, The Sims e Battlefield.
 
-- ![](images/xbox_microsoft.png){width=50px} **Xbox (Microsoft Gaming)** – Responsável pela linha de consoles Xbox e por títulos como Halo e Forza Horizon.
+- ![](images/bandai.png.png){width=50px} *Bandai Namco* – Desenvolvedora e distribuidora de jogos como Tekken, Pac-Man e Elden Ring.
 
 # 🎯Objetivo do Projeto
 
@@ -31,6 +31,4 @@ Para esta análise, foram selecionadas algumas das maiores empresas do setor de 
 
  Os dados serão coletados a partir de relatórios financeiros oficiais, balanços patrimoniais e outras fontes confiáveis. A análise será conduzida com métodos estatísticos e ferramentas de programação e visualizações para facilitar a interpretação dos resultados.
 
-# ✅Conclusão Esperada
-
- Com este estudo, espera-se obter insights valiosos sobre o panorama financeiro das principais empresas de jogos, identificando tendências e desafios enfrentados por cada uma delas no mercado global.
+# 🤝Quem Somos

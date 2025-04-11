@@ -18,8 +18,8 @@ format: html
 | ![](images/higor.jpg){width=100px} | **Higor Volpi** <br>Desenvolvedor Junior<br>[![LinkedIn](images/logo.png){width=20px}](https://www.linkedin.com/in/higor-palote-volpi/) [![Portfolio](images/github.png){width=20px}](https://github.com/HigorVolpi/portfolio/)   |
 |:-----------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | ![](images/ana.jpg){width=100px}   | **Ana Júlia** <br>Estagiária de BI<br>[![LinkedIn](images/logo.png){width=20px}](https://www.linkedin.com/in/anakucharski/) [![Portfolio](images/github.png){width=20px}](https://anajuliakucharski.github.io/portfolio/)             |
-| ![](images/jhonatan.jpg){width=100px}| **Jhonatan Atanazio** <br>Gerente de Planejamento Estratégico<br>[![LinkedIn](images/logo.png){width=20px}](https://www.linkedin.com/in/atanaziojhonatan/)[![Portfolio](images/github.png){width=20px}](https://www.linkedin.com/in/atanaziojhonatan/) |
-| ![](images/eduardo.jpg){width=100px}                | **Eduardo Oliveira** <br>Data Analytics<br>[![LinkedIn](images/logo.png){width=20px}](https://www.linkedin.com/in/eduardo-oliveira-pereira/)[![Portfolio](images/github.png){width=20px}](https://eduolveira1504.github.io/Portfolio/)   |
+| ![](images/jhonatan.jpg){width=100px}| **Jhonatan Atanazio** <br>Gerente de Planejamento Estratégico<br>[![LinkedIn](images/logo.png){width=20px}](https://www.linkedin.com/in/atanaziojhonatan/)[![Portfolio](images/github.png){width=20px}](https://atanazioj.github.io/portfolio/) |
+| ![](images/eduardo.jpg){width=100px}                | **Eduardo Oliveira** <br>Data Analytics<br>[![LinkedIn](images/logo.png){width=20px}](https://www.linkedin.com/in/eduardo-oliveira-pereira/)[![Portfolio](images/github.png){width=20px}](https://eduoliveira1504.github.io/Portfolio/)   |
 
 
 ---
