@@ -26,5 +26,19 @@
     "title": "Projetos",
     "section": "Projeto 2 - Em desenvolvimento",
     "text": "Projeto 2 - Em desenvolvimento\n\n…"
+  },
+  {
+    "objectID": "about.html#projeto-2---chatbot-financeiro",
+    "href": "about.html#projeto-2---chatbot-financeiro",
+    "title": "Projetos",
+    "section": "Projeto 2 - ChatBot Financeiro",
+    "text": "Projeto 2 - ChatBot Financeiro\n\nDescrição Chatbot para facilitar as consultas no Dashboard interativo onde contém dados finaneiros.\n📎 Ver no StreamLit\n📎 Baixar dados Financeiros (.csv)\n\n\nObjetivo\n\nTransforme a maneira como você interage com seus dados. Este projeto integra um chatbot a um dashboard dinâmico em Streamlit, permitindo que você “converse” com seus arquivos. Realize tarefas de extração, transformação, carga (ETL) e crie análises exploratórias usando linguagem natural, sem escrever uma única linha de código. Uma ferramenta projetada para democratizar o acesso aos dados, tornando a análise rápida, visual e acessível para todos."
+  },
+  {
+    "objectID": "about.html#projeto-3---pré-processamento-de-dados",
+    "href": "about.html#projeto-3---pré-processamento-de-dados",
+    "title": "Projetos",
+    "section": "Projeto 3 - Pré-processamento de Dados",
+    "text": "Projeto 3 - Pré-processamento de Dados\n\nDescrição Para facilitar a utilização de diferentes fontes de dados, planejamos o seguinte fluxo\n📤 Interface de Upload: Adicionar uma área no dashboard para que o usuário possa enviar seu próprio arquivo (ex: .csv, .xlsx).\n⚙️ Processamento Automático: Nos bastidores, a aplicação irá rodar scripts para limpar, formatar e validar os dados, garantindo a compatibilidade com o sistema.\n📥 Download da Base Tratada: Ao final, o usuário poderá baixar sua base de dados já tratada e pronta para ser usada pelo chatbot.\n\n\nObjetivo\n\nPara tornar a ferramenta ainda mais poderosa, o próximo passo é permitir que os usuários analisem seus próprios dados. Pretendemos desenvolver uma funcionalidade de upload simples e intuitiva. O usuário submeteria seu arquivo e a plataforma se encarregaria de processá-lo automaticamente, corrigindo inconsistências e aplicando as formatações necessárias. Em instantes, a base de dados seria devolvida, limpa e pronta para ser explorada pelo chatbot, tornando a ferramenta uma solução de análise verdadeiramente personalizada e self-service."
   }
 ]
